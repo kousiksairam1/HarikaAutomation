@@ -17,6 +17,8 @@ public class LocatoresDemo {
 		driver.get("https://www.amazon.in/");
 		//maximize the browser window
 		driver.manage().window().maximize();
+
+		//adding to check in git
 		
 		//using name locator and send keys as Mac
 		//driver.findElement(By.name("field-keywords")).sendKeys("Mac");
