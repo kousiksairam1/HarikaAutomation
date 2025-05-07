@@ -19,6 +19,7 @@ public class LocatoresDemo {
 		driver.manage().window().maximize();
 
 		//adding to check in git
+		//new edit
 		
 		//using name locator and send keys as Mac
 		//driver.findElement(By.name("field-keywords")).sendKeys("Mac");
